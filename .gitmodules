@@ -1,0 +1,4 @@
+[submodule "src/modules/dms"]
+	path = src/modules/dms
+	url = https://github.com/availabs/dms
+
