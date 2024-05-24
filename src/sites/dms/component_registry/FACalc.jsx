@@ -3,7 +3,7 @@ import React, { useMemo, useState, useEffect }from 'react'
 async function getData ({
    beds_code='',
    year='/img/header.png',
-   }) {
+}) {
   return {
       position,
       bgImg,
